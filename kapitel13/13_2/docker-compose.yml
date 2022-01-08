@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+
+  webbserver:
+    restart: always
+    image: httpd:2.4
+    ports:
+      - 5050:80
