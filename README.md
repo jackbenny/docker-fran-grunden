@@ -1,8 +1,8 @@
 # Docker från grunden
-Här finner du filer för boken *Docker från grunden* (ISBN: 978-91-983300-6-9).
-Exempelvis finns här alla `Dockerfile`- och `docker-compose.yml`-filer. Här
-finns även annan exempelkod som används i boken, så som Bash-skript och
-HTML-filer.
+Här finner du filerna från boken *Docker från grunden* (ISBN:
+978-91-983300-6-9). Exempelvis finns här alla `Dockerfile`- och
+`docker-compose.yml`-filer. Här finns även annan exempelkod som används i
+boken, så som Bash-skript och HTML-filer.
 
 Boken går att köpa från [CyberInfo Sverige](https://www.cyberinfo.se/bocker/),
 [Bokus](https://www.bokus.com/bok/9789198330069/docker-fran-grunden/) och
